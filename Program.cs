@@ -25,7 +25,7 @@ namespace Business
 		{
 
 			Console.WriteLine("how dont you do");
-			int newtype = 2;
+			int newtype = 2 - 17;
 			newtype += oldtype; 
 
 		}
