@@ -10,8 +10,9 @@
 
 			Console.WriteLine("this is our cool new feature");
 
-			Console.WriteLine("This is our footer");
+			Console.WriteLine("This is our footer - (c)2019");
 
+			Console.WriteLine("this might be a cool thing one day but not today");
 
 			Console.WriteLine("this might be some extra");
 
