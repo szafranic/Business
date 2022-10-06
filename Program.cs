@@ -23,15 +23,11 @@ namespace Business
 		}
 		public static void MyMethod(int oldtype)
 		{
-
 			Console.WriteLine("how dont you do");
-<<<<<<< HEAD
-			int newtype = 2 + 8;
-=======
-			int newtype = 2 - 17;
->>>>>>> main
-			newtype += oldtype; 
 
+			int newtype = 2 - 17;
+
+			newtype += oldtype; 
 		}
 	}
 }
