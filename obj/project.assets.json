@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stormy\\Git\\school projects\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\stormy\\Git\\school projects\\BusinessEx\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\stormy\\Git\\school projects\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\stormy\\Git\\school projects\\BusinessEx\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\stormy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stormy\\Git\\school projects\\Business\\obj\\",
+      "outputPath": "C:\\Users\\stormy\\Git\\school projects\\BusinessEx\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
