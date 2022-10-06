@@ -8,7 +8,7 @@
 
 			Console.WriteLine("This is our main code");
 
-			Console.WriteLine("this is our cool new feature");
+			Console.WriteLine("this is our not so new feature");
 
 			Console.WriteLine("This is our footer - (c)2019");
 
