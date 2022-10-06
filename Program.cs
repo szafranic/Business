@@ -24,9 +24,15 @@ namespace Business
 		public static void MyMethod(int oldtype)
 		{
 
+<<<<<<< HEAD
+			Console.WriteLine("i do not");
+			int newesttype = 1;
+			newesttype += oldtype; 
+=======
 			Console.WriteLine("how dont you do");
 			int newtype = 2;
 			newtype += oldtype; 
+>>>>>>> f2e0b2007354770d9d5670e4a520e6e3dca00533
 		}
 	}
 }
